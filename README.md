@@ -1,2 +1,2 @@
 # CQF
-CQF Assignments
+Certificate in Quantitative Finance (CQF) Assignments
